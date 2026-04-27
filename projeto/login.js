@@ -11,7 +11,6 @@ enviar.addEventListener('click', (event)=>{
         return;
     }
 
-
     if (!email.value.includes("@")){
         alert("o email não tem @");
         return;
@@ -26,8 +25,5 @@ enviar.addEventListener('click', (event)=>{
     }else{
         alert("senha ou email errados");
     }
-   
-
-
 });
 
