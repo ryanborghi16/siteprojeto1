@@ -1,4 +1,3 @@
-console.log("JS carregado!");
 let email = document.getElementById('email');
 let senha = document.getElementById('senha');
 let enviar = document.getElementById('enviar');
